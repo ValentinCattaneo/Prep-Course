@@ -1,0 +1,10 @@
+Variables: Tipo de dato que te permite almacenar información. Se puede escribir con var, let
+o const(esta última para no ser sobreeescrita)
+Strings: Cadenas de texto. Se puede escribir con comillas simples o dobles, incluso con backticks
+Funciones: Para poder reutilizar código se puede usar una función y minimizar la escritura. Se le puede pasar
+un "argumento" o varios, que son simplemente lo que uno va a completar después cuando use la función. Return
+sirve para "devolver" o, justamente, "retornar" cierta información. Después de un return no sigue leyendo el
+código de la función el intérprete.
+Declaraciones if: "if" quiere decir "si". Si pasa tal cosa, se reproduce una cantidad de codigo, de lo 
+contario, sigue leyendo el resto de declaraciones.
+Valores Booleanos: Los valores booleanos se dividen en verdadero o falso, como si dijeramos sí o no.
